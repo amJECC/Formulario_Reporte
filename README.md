@@ -1,6 +1,7 @@
 # Formulario_Reporte
 Creacion de un formulacion en HTML y php el cual permite guardar usuarios en una base de datos y generar un reporte apartir de esta. 
 
+(Para el desarrollo se utilizaron herramientas como VisualStudioCode, XAMPP como servidor PHP y composter para dependencias de generacion de archivos)
 
 El programa empieza por pedir los datos correspondientes al ejercicio:
 
